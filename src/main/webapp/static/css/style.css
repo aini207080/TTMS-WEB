@@ -1,0 +1,12 @@
+.front{width: 600px;margin:5px 32px 45px 0px;background-color: #888888;	color: #00BFFF;text-align: center;padding: 5px;border-radius: 5px;}
+div.seatCharts-cell {color: #182C4E;height: 30px;width: 30px;line-height: 25px;margin:5px;float: left;text-align: center;outline: none;font-size: 13px;}
+div.seatCharts-seat {color: #fff;cursor: pointer;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}
+div.seatCharts-row {height: 45px;}
+div.seatCharts-seat.normal{background-color: #B9DEA0;}
+div.seatCharts-seat.damage{background-color: #FF0000;}
+div.seatCharts-seat.aisle{background-color: rgba(255,255,255,0.2);}
+div.seatCharts-seat.available {background-color: #B9DEA0;}
+div.seatCharts-seat.unavailable {background-color: rgba(255,255,255,0.2);}
+div.seatCharts-seat.selected {background-color: #FF0000;}
+div.seatCharts-legend {padding-left: 0px;position: absolute; top: 220px; right:270px}
+.Pre{position: absolute;top: 350px; right:270px}
